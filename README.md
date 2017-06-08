@@ -11,7 +11,7 @@
  
 # Running the tests from commandline
  1. Clone the git repo  
- 1. Run `mvn clean test` in the terminal after the repo has finished cloning
+ 1. Run `mvn clean test` in the terminal from the project root after the repo has finished cloning
  
 # Running the tests from intellij
  1. Navigate to test classes (name ends in Test)
