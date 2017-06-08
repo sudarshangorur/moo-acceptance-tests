@@ -9,6 +9,11 @@
  1. geckodriver (https://github.com/mozilla/geckodriver/releases) installed and available in path
 
  
-# Running the tests
+# Running the tests from commandline
  1. Clone the git repo  
  1. Run `mvn clean test` in the terminal after the repo has finished cloning
+ 
+# Running the tests from intellij
+ 1. Navigate to test classes (name ends in Test)
+ 1. Right-click on the tests and choose run
+
